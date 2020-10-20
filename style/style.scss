@@ -69,7 +69,7 @@ input {
 	left: 15%;
 	border-radius: 12px;
 	top: 25%;
-	padding: 1.5rem .5rem 0 .9rem;
+	padding: 1.5rem .5rem 1rem 1.5rem;
 	z-index: 9999;
 
 	ul {
@@ -87,6 +87,12 @@ input {
 				padding-bottom: .5rem;
 				color: hsl(0, 0%, 59%);
 
+			}
+
+			h4 {
+				color: hsl(0, 0%, 17%);
+				font-weight: 700;
+				font-size: 1.7rem !important;
 			}
 
 
